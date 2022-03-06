@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c-fy
 - 👀 I’m interested in HomeBridge
-- 🌱 I’m currently learning basics
+- 🌱 I’m currently learning absolute basics
 - 💞️ I’m looking to collaborate on 😬
 
 <!---
